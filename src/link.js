@@ -73,7 +73,7 @@ function runDispenser() {
     }
     console.log(chocolates);
 
-    console.log("PRESS \'C\' TO USE AGAIN");
+    //console.log("PRESS \'C\' TO USE AGAIN");
 }
 
 runDispenser();
